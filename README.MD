@@ -1,5 +1,3 @@
-Alles klar! Ich mach das README professioneller, mit Badges, klaren Abschnitten und schöner Lesbarkeit, ohne die Quellen. So könnte es aussehen:
-
 # stock-toolbox
 
 ![Python](https://img.shields.io/badge/python-3.10+-blue?logo=python)
